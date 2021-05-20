@@ -26,6 +26,6 @@
 2- add delete all to question bank .
 3- fix errors about testing input value before add it .
 4- add all colors as a css variables .
-5- add blocks of code to a custom functions to be more single responsability as SOLID PRINCIPLES as possible .
+5- add blocks of code to a custom functions to be more single responsibility  as SOLID PRINCIPLES as possible .
 
 V IMP : you must run a [ json-server --watch db.json ] && any live server (gulp livereload for example or VS livereload extension  ) ............ you will find file at dist/data 
